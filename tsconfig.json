@@ -4,7 +4,6 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "module": "node16",
-    "strictNullChecks": false,
-    "noImplicitAny": false
+    "strictNullChecks": false
   }
 }
